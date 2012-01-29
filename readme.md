@@ -21,9 +21,9 @@ Many mobile apps are relatively simple, and don't need a fully blown websites to
 6. Deploy your site with more git!
 
 
-              git add -A  
-              git commit -m "init"
-              git push MySite gh-pages
+        git add -A  
+        git commit -m "init"
+        git push MySite gh-pages
 
 7. Within 10 minutes (it's only "that slow" the first time), your site will be running at http://YOURNAME.github.com/REPONAME/. You can even use your own domain, but look at the [GitHub Pages documentation for that](http://pages.github.com/)
 
