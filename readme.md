@@ -20,6 +20,7 @@ Many mobile apps are relatively simple, and don't need a fully blown websites to
     
 6. Deploy your site with more git!
 
+       git add -A
     	git commit -m "init"
     	git push MySite gh-pages
 
