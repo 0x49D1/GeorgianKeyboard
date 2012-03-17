@@ -21,6 +21,14 @@
   })();
 
 </script>
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 	</head>
 	<body>
 		<div id="container">
@@ -40,7 +48,7 @@
 				<div id="smallPhone"><img src="img/screenshots/staticscreenshot.png" alt="App Screenshot" /></div>
 			</div>
 			<div id="content">
-				<h1>{{ site.title }}</h1>
+				<h1>{{ site.title }}</h1><g:plusone annotation="inline"></g:plusone>
 <a href="http://purs.wordpress.com" title="0x49D1">developed by Dmitry Pursanov</a>
 				<div id="description">
 					There are some unsupported languages in windows phone 7. And the platform is really nice, so its so unfair!! This program is first to deal with Georgian language. With it you can type text in Georgian and then send email/sms/do web search/just copy(paste) in Georgian, so that in other programs you still cant see what are you sending, but thats just because of platform unsupporting Georgian symbols, but it WILL still send them as Georgian symbols! Also you can copy any text in "unsupported Georgian" from other programs and read it in this one.
