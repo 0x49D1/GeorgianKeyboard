@@ -1,12 +1,12 @@
 permalink: /:title.html
 auto: true
 markdown: rdiscount
-title: YourAppName
-accent: 2d88c9
-twitter: mahapps
+title: Georgian Keyboard
+accent: ff0000
+twitter: georgiankeyboard
 facebook: mahapps
 appId : 123456
-phone: lumia710whiteblue #lumia800blue
+phone: emulator #lumia800blue
 #valid options
 #	emulator
 #	focuss (Samsung Focus S)
