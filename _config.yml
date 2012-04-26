@@ -4,8 +4,8 @@ markdown: rdiscount
 title: Georgian Keyboard
 accent: ff0000
 twitter: georgiankeyboard
-facebook: mahapps
-appId : 123456
+facebook: georgiankeyboard
+appId : 0de65c8f-df5c-43cd-bfe5-903444f6f398
 phone: emulator #lumia800blue
 #valid options
 #	emulator
